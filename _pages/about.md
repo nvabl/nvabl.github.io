@@ -2,7 +2,15 @@
 permalink: /about/
 title: "About"
 ---
+### Welcome to my blog
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! My name is Khanh. You can call me Kyle . 
+I’m a materials engineer based in Hanoi and I do program as a hobby. I’m currently on the way to pursue my dream in computational materials science or materials informatics. Hopefully, I would possibly make it in one day.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### More Information
+This website is intended to be a very place to include some projects ranging from materials, simulation to programming, literally all stuff I have worked on. Probably I sometimes write miscellaneous posts as I would like to keep a diary to make writing a good habit. Hope you could find something useful here.
+
+<a href="https://buymeacoffee.com/nvabl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+### Contact me
+Reach out to me at [Email](mailto:kyle.19nv@gmail.com)
